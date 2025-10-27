@@ -4,8 +4,6 @@ description: "This resource contains the information regarding akkusativ pr\xE4p
 file: /courses/21g-401-german-i-fall-2008/8f72b614d56f6ba876ce30942d076d58_MIT21G_401F08_akku_prapo.pdf
 file_size: 137984
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

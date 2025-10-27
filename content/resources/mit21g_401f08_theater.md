@@ -4,8 +4,6 @@ description: This resource contains the information regarding im theater.
 file: /courses/21g-401-german-i-fall-2008/dd958c63ca5480e3d33a83d7067e2e36_MIT21G_401F08_theater.pdf
 file_size: 102215
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains the information regarding slide 1.
 file: /courses/21g-401-german-i-fall-2008/db781010fc86a449c90b4addbb293224_MIT21G_401F08_group1.pdf
 file_size: 1602686
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

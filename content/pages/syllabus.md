@@ -2,8 +2,6 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, texts,
   classes, language lab, the audio program, homework, and grading.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -39,7 +37,7 @@ Please record the time you spend working with the different parts of the audio p
 Audio Program
 -------------
 
-**Regular daily work with the audio program for short periods of time (15-20 minutes) is strongly suggested.** For the listening exercises, you may also work from your computer at home, given that you have a microphone installed to your home computer. The audio program files are available to registered students through the course Web site. For the DL recorder, go to [Dartmouth College Language Recorder](http://projects.oscelot.org/gf/project/dlrecorder/). You will receive additional information on the DL recorder and the audio files on the first day of class.
+**Regular daily work with the audio program for short periods of time (15-20 minutes) is strongly suggested.** For the listening exercises, you may also work from your computer at home, given that you have a microphone installed to your home computer. The audio program files are available to registered students through the course Web site. For the DL recorder, go to {{% resource_link "a1bd9488-c623-476a-9818-c24f123e0c90" "Dartmouth College Language Recorder" %}}. You will receive additional information on the DL recorder and the audio files on the first day of class.
 
 Homework
 --------

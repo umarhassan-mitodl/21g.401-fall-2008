@@ -5,8 +5,6 @@ description: This resource contains the information regarding language backgroun
 file: /courses/21g-401-german-i-fall-2008/afe055117c7505b424d21c0cc32feef3_MIT21G_401F08_back.pdf
 file_size: 582340
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
